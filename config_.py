@@ -1,3 +1,3 @@
-access_token = '411f24ebcff2beb1de4281b02d3f92ca52aa5ea540c953594b72cd584718397b467cb50b8675ae9ebb561'
-user_token = '2fb9945d8f0af515f20b117e2b554505a97b66476eb7a11335d9704d2a1937419c8d8479e9c100da3342e'
-group_id = '212032319'
+access_token = '******'
+user_token = '******'
+group_id = '*****'
